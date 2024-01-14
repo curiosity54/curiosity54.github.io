@@ -24,4 +24,11 @@ Courtesy NCCR Women, a video capturing my day at work (2021)
 * [ML4M, 2022](https://www.youtube.com/watch?v=OfC0vUqw6FA&list=PLYc-eBoIpXTLRPmVi6qPgljHu-Fs9_ptc&index=18&t=1s)
 * [MLIP workshop, 2021](https://www.youtube.com/watch?v=1cXhdJ9gXu4&t=1358s)
 
+## Codes contributed to
+
+* [Library for integrating ML and Hamiltonian learning](https://github.com/curiosity54/mlelec), _J. Nigam_ et al. 
+* [Metatensor](https://github.com/lab-cosmo/metatensor), G. Fraux et al.
+* [Librascal](https://github.com/lab-cosmo/librascal), F. Musil et al.
+* [AniSOAP](https://github.com/cersonsky-lab/AniSOAP), R. Cersonsky et al. 
+* [TENSOAP](https://github.com/dilkins/TENSOAP/), D. Wilkins, A. Grisafi et al.
 

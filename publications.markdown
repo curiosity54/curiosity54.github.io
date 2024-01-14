@@ -13,7 +13,7 @@ _J Nigam_, L Cupellini, B Mennucci, M Ceriotti (Submitted, 2023)
 * [Optimal radial basis for density-based atomic representations](https://pubs.aip.org/aip/jcp/article-abstract/155/10/104106/1013253/Optimal-radial-basis-for-density-based-atomic?redirectedFrom=fulltext), A Goscinski, F Musil, S Pozdynakov, _J Nigam_, M Ceriotti (2021)
 * [Multi-scale approach for the prediction of atomic scale properties](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d0sc04934d), A Grisafi, _J Nigam_, M Ceriotti (2021)
 * [Recursive evaluation and iterative contraction of N-body equivariant features](https://pubs.aip.org/aip/jcp/article/153/12/121101/1023428), _J Nigam_, S Pozdnyakov, M Ceriotti (2020)
-
+* [A Quest for Identity: From Personal to Political](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2799670), S Nigam, _J Nigam_ (2016)
     
 
  
