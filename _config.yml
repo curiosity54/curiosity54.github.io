@@ -26,7 +26,7 @@ baseurl: #"/" # the subpath of your site, e.g. /blog
 url: "http://curiosity54.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jigyasa_nigam
 orcid_username: ORCID 
-linkedin_username: jigyasa-nigam-886137111
+linkedin_username: jigyasanigam
 scholar_username: Google Scholar
 #github_username:  jekyll
 about: Hello, I am Jigyasa! I am a PhD student at EPFL, working at the intersection of machine learning, atomistic simulations and electronic structure. Hopefully, this is the year I can finally call myself Doctor! 
