@@ -11,5 +11,5 @@ Four years of PhD have come to an end, and what a journey it has been!
 
 
 ---
-If you're interested in reading what I did over the course of this amazing years, you can read my <a href="https://infoscience.epfl.ch/entities/publication/d181c5f0-76c1-48e2-8a60-ad4f636a8d41/thesisdetails">thesis</a> here!
+If you're interested in reading what I did over the course of this amazing years, you can read my <a href="https://infoscience.epfl.ch/entities/publication/d181c5f0-76c1-48e2-8a60-ad4f636a8d41">thesis</a> here!
 
