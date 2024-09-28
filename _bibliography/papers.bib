@@ -1,29 +1,14 @@
-@phdthesis{item_d181c5f076c148e28a60ad4f636a8d41, address={Lausanne}, title={Integrating symmetry and physical constraints into atomic-scale machine learning}, url={https://infoscience.epfl.ch/handl
-e/20.500.14299/240680}, DOI={10.5075/epfl-thesis-10848}, abstractNote={Over the past decade, computational atomistic modeling, driven by machine learning (ML), has become indispensable to scientific
- endeavors, improving our understanding and accelerating the search for compounds with enhanced properties. Traditional atomistic ML schemes are bottom-up surrogate models of macroscopic properties 
-extracted from atomic simulations driven by quantum mechanical (QM) calculations, and aim to provide the accuracy of QM without its prohibitive computational cost. Intermediate outputs of electronic
- structure, such as wavefunctions and electron densities, have also been recently used as both inputs and targets of integrated machine learning models, leading to a holistic approach to predicting 
-complex molecular behaviors and emergent phenomena.
-Unlike many other domains, atomistic ML benefits from a wealth of physical laws constraining the relationship between inputs and outputs. Recent ML approaches leverage this domain knowledge by encod
-ing physical priors in intricate end-to-end architectures or symmetry-adapted inputs to usually simpler models.
-This thesis aims to unify these methodologies into a single framework. We begin by examining the mathematical underpinning of symmetrized descriptors that characterize local atomic environments, ide
-ntifying ingredients such as the functional form of representations and symmetries that contribute to their success in modeling atomic properties or contributions to global observables.
-Having deconstructed atom-centered descriptors, we propose a recipe to extend their scope, allowing for the description of structural environments indexed by more than one atomic center. This not on
-ly helps address the limitations of atom-centered descriptors but also reveals their connection to geometric equivariant message-passing on atomistic graphs, thus bridging the gap between the two di
-stinct approaches in atomistic ML, which together encompass most existing models.
-The development of representations describing multiple atomic centers also enables the prediction of ingredients central to QM, such as the effective single-particle Hamiltonian matrix with elements
- indexed by atomic orbitals on pairs of atoms. This target offers a compelling advantage as it circumvents the need for costly QM calculations and allows the prediction of other properties based on 
-their established analytical relationship with the Hamiltonian. Integrating physical constraints within this framework establishes a connection between individual surrogate models, which construct t
-arget properties based on their geometric relationship with the structure, and integrated models that predict QM intermediates while being agnostic to the properties derived from them. This integrat
-ion is valuable for the transferability of predictions of derived properties across structural space and promotes their accuracy to higher levels of theory at no additional cost when the prediction 
-of the intermediate Hamiltonian can be optimized according to its physical relationship with the target. This research, drawing on a common thread of physics, systematizes the theory of descriptor-b
-ased ML for atomic systems. The rigorous integration of symmetry principles in descriptors, coupled with physical constraints in the model, and a carefully crafted representation of the targets, pav
-e the way to robust and integrated machine-learning models that enable predictive simulations of physical observables and chemical properties of arbitrary complexity.}, school={EPFL}, author={Nigam,
- Jigyasa}, year={2024}, month={aug}, keywords={atom-centered density correlations (ACDC) | atomistic machine learning | descriptors | N-center representations | equivariance | completeness | physica
-l constraints | electronic Hamiltonians}, language={en} 
-bibtex_show={true},
-selected={true},
-preview={thesis.png},
+@article{thesis2024jn, 
+    title={Integrating symmetry and physical constraints into atomic-scale machine learning}, 
+    url={https://infoscience.epfl.ch/handl
+e/20.500.14299/240680}, 
+    DOI={10.5075/epfl-thesis-10848}, 
+  author={Nigam,Jigyasa}, 
+  year={2024}, 
+  keywords={atom-centered density correlations (ACDC) | atomistic machine learning | descriptors | N-center representations | equivariance , completeness , physical constraints | electronic Hamiltonians}, 
+ bibtex_show={true},
+ selected={true},
+ preview={thesis.png},
 }
 
 @article{lin2024expanding,
