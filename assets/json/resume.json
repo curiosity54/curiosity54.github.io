@@ -44,8 +44,8 @@
     {
       "name": "École Polytechnique Fédérale de Lausanne (EPFL)",
       "position": "INSPIRE Potential Fellow",
-      "startDate": "2019-05",
-      "endDate": "2020-07",
+      "startDate": "2019-08",
+      "endDate": "2020-05",
       "summary": "Extending machine learning descriptors to model long-range interactions and applying them to study hydrogen at astrophysical conditions",
       "highlights": ["descriptors for long-range interactions in atomistic ML"]
     },
@@ -54,7 +54,7 @@
       "position": "Future Research Talent Fellow",
       "url": "https://physics.anu.edu.au/intra/eventhorizon.php?Article=6411",
       "startDate": "2019-05",
-      "endDate": "2019-08",
+      "endDate": "2019-07",
       "summary": "I worked on extending the quasi-exactly solvable ringium model to two nucleons interacting via Yukawa potential on a d-dimensional sphere",
       "highlights": ["analytical solutions to the Schrödinger equation"]
     },
