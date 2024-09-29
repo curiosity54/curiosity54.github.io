@@ -1,4 +1,13 @@
+---
+layout: post
+title: My world is burning
+date: 2024-09-29
+categories: posts
+---
+
 Another poem that feels so apt
+
+*My world is burning* 
 
 > Found myself here in the dark, in the midst of ruins, ashes, smoke and flames
 > My world is burning in ways more than one, nothing could ever be the same

@@ -1,7 +1,12 @@
+---
+layout: post
+title: Uprooting, challenging, ...
+date: 2024-09-29
+categories: posts
+---
+
 Scrolling through my archives today, found this poem I wrote almost 7 years ago, that still inspires me today!
 
-** Uprooting, challenging... **
-*
 > Longing eyes, shackled spirit, bowed head- veiled
 > Subjecting to this oppression- I failed!
 > Standards, restrictions and stereotypes unfurl
@@ -46,4 +51,3 @@ Scrolling through my archives today, found this poem I wrote almost 7 years ago,
 > Based on the tenets of equality and harmony
 > Sow the seeds of courage and freedom in our heart
 > Create a world that stands apart!
-*
