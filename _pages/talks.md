@@ -14,7 +14,7 @@ Talks available online
 
 
 **Organized**
-* [MLIP workshop](https://www.mlip-workshop.xyz/), (CECAM and Psi-k workshop), (6-10 November 2023)
+* [MLIP School](https://www.mlip-workshop.xyz/), (CECAM and Psi-k workshop), (6-10 November 2023)
     - co-organized with Max Veit, Miguel Caro, Carlo Maino, Felix-Cosmin Mocanu, Chiheb B Mahmoud, Kevin K Huguenin-Dumittan, Sanggyu Chong, Davide Tisi, and Federico Grasselli
     - Funded by CECAM, Psi-K, ERC FIAMMA
 * [Swiss Equivariant Learning Workshop](https://sites.google.com/mit.edu/swiss-equivariant-learning), (11-14 July 2022)
