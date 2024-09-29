@@ -22,20 +22,21 @@ Talks available online
    
 
 **Invited**	
-*	Machine Learning Force fields, Institute of Mathematical and Statistical Innovation, University of Chicago, Unpacking the ingredients of atomistic machine learning: force fields and beyond (8-12 April 2024)
-*	Lennard Jones Seminar, Cambridge University, Physically constrained machine learning : from electronic Hamiltonians to electronic excitations (4 March 2024)
-*	CIBE Seminars, University of Wisconsin- Madison, Looking beyond the atom, message passing ML (01 March 2023)
-*	Max Planck Gesellschaft Science Day, Machine learning of experimental observables in surface and interface science  (28 September 2022)
-*	Lennard Jones Seminar, Cambridge University, Towards message passing with N-center representations (30 May 2022)
-*	Machine learning interatomic potentials: Young researchers’ tutorial, Incorporating symmetries and physical constraints in atomistic machine learning (November 2021)
-*	MARVEL Junior Seminar 2021, Efficient representations of local and non-local interactions in atomistic machine learning (5 February 2021)
+*   Machine Learning Potentials: from Interfaces to Solutions, Ruhr Universitat Bochum, *Euclidean neural networks guiding insights and exploration of atomistic systems*  (27-29 August 2024, on behalf of Tess Smidt)
+*	Machine Learning Force fields, Institute of Mathematical and Statistical Innovation, University of Chicago, *Unpacking the ingredients of atomistic machine learning: force fields and beyond* (8-12 April 2024)
+*	Lennard Jones Seminar, Cambridge University, *Physically constrained machine learning : from electronic Hamiltonians to electronic excitations* (4 March 2024)
+*	CIBE Seminars, University of Wisconsin- Madison, *Looking beyond the atom, message passing ML* (01 March 2023)
+*	Max Planck Gesellschaft Science Day, *Machine learning of experimental observables in surface and interface science* (28 September 2022)
+*	Lennard Jones Seminar, Cambridge University, *Towards message passing with N-center representations* (30 May 2022)
+*	Machine learning interatomic potentials: Young researchers’ tutorial, *Incorporating symmetries and physical constraints in atomistic machine learning* (November 2021)
+*	MARVEL Junior Seminar 2021, *Efficient representations of local and non-local interactions in atomistic machine learning* (5 February 2021)
 
 **Contributed**
-*	APS March Meeting, Poster presentation, Completeness of atomic representations, Poster presentation (07 March 2024)
-*	CECAM Berlin, Multicenter representations for atomistic ML Poster Presentation (19-23 June 2023)
-*	APS March Meeting, Unifying atom-centered descriptions and message passing ML schemes (05-10 March 2023)
-*	DPG Spring Meeting, Equivariant N-center representations for machine learning molecular Hamiltonians (08 September 2022),
-*	Psi-k, Sixth international edition, Unifying atom-centered descriptions and message passing ML schemes (24 August 2022)
-*	IUPAP CCP Meeting, Poster: Equivariant N-center representations for machine learning molecular Hamiltonians (01 August 2022),
-*	Machine Learning for Materials (ML4M) Equivariant N-center representations, (11-13 May 2022)
+*	APS March Meeting, Poster presentation, *Completeness of atomic representations*, Poster presentation (07 March 2024)
+*	CECAM Berlin, *Multicenter representations for atomistic ML* Poster Presentation (19-23 June 2023)
+*	APS March Meeting, *Unifying atom-centered descriptions and message passing ML schemes* (05-10 March 2023)
+*	DPG Spring Meeting, *Equivariant N-center representations for machine learning molecular Hamiltonians* (08 September 2022),
+*	Psi-k, Sixth international edition, *Unifying atom-centered descriptions and message passing ML schemes* (24 August 2022)
+*	IUPAP CCP Meeting, Poster: *Equivariant N-center representations for machine learning molecular Hamiltonians* (01 August 2022),
+*	Machine Learning for Materials (ML4M), SISSA, *Equivariant N-center representations*, (11-13 May 2022)
 *	The International symposium on Machine Learning in Quantum Chemistry (Xiamen, China), Poster presentation (12-14 November 2021)
