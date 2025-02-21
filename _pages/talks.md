@@ -15,6 +15,8 @@ Talks available online
 
 
 **Organized**
+* [Boston Symmetry Day](https://bostonsymmetry.github.io/), (31 March 2025)
+    - co-organized with Hannah Lawrence, John Park, Derek Lim, Stephanie Jegelka, and Robin Walters
 * [MLIP School](https://www.mlip-workshop.xyz/), (CECAM and Psi-k workshop), (6-10 November 2023)
     - co-organized with Max Veit, Miguel Caro, Carlo Maino, Felix-Cosmin Mocanu, Chiheb B Mahmoud, Kevin K Huguenin-Dumittan, Sanggyu Chong, Davide Tisi, and Federico Grasselli
     - Funded by CECAM, Psi-K, ERC FIAMMA
