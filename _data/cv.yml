@@ -26,11 +26,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Visiting Postdoc Fellow
+      institution: Harvard University 
+      year: 02/2025- Present
+      description:
+        - Hosted by the group of Prof. Joonho Lee 
+
     - title: Postdoctoral Associate
       institution: Massachusetts Institute of Technology
-      year: 09/2024
+      year: 09/2024- Present
       description:
         - Awarded MIT School of Engineering's Postdoc Fellowship for Excellence in Engineering
+        - Collaborating with the group of Prof. Tess Smidt 
     
     - title: AI4Science Intern
       institution: Microsoft Research, Berlin 
