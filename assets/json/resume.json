@@ -19,12 +19,18 @@
     ]
   },
   "work": [
+    {"name": "Harvard University", 
+     "position": "Visiting Postdoc Fellow",
+     "url": "https://joonholeegroup.com/",
+     "startDate": "2025-03",
+     "summary": "Collaborating with the group of Prof. Joonho Lee"
+    },
     {
       "name": "Massachusetts Institute of Technology",
       "position": "Postdoctoral Associate",
       "url": "https://www.mit.edu/",
       "startDate": "2024-09",
-      "summary": " "
+      "summary": "Hosted by the group of Prof. Tess Smidt"
     },
     {
       "name": "EPFL",
