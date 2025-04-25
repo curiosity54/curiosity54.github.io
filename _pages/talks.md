@@ -15,6 +15,8 @@ Talks available online
 
 
 **Organized**
+* Beyond the Black Box: ML-Driven Discovery Across Scientific Disciplines (Upcoming, August 2025)
+    - co-organized with Sendhil Mullainathan, Ashesh Rambachan, Tess Smidt, Peter Chang, Steven Ma, Mit Kotak. Thanks to the generous support from the Chan Wui and Yunyin Fund.
 * [Boston Symmetry Day](https://bostonsymmetry.github.io/), (31 March 2025)
     - co-organized with Hannah Lawrence, John Park, Derek Lim, Stephanie Jegelka, and Robin Walters
 * [MLIP School](https://www.mlip-workshop.xyz/), (CECAM and Psi-k workshop), (6-10 November 2023)
