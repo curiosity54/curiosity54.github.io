@@ -24,7 +24,8 @@ Talks available online
     - co-organized with Martin Uhrin, Mario Geiger, Alby Musaelian, Simon Batzner, Josh Rackers, Thomas Hardin, and Tess Smidt
    
 
-**Invited**	
+**Invited**
+*   Symposium on Materials Simulations and Experiments using Machine Learning & Exascale Computing, Spetses, Greece (22-27 June 2025) - Declined travel restrictions 
 *   AAAI [Bridge on knowledge-guided ML](https://sites.google.com/vt.edu/kgml-bridge-aaai-25/) *Unpacking the synergy of physics and data: machine learning for atomistic systems* (25-26 February 2025) 
 *   [Applied ML Days](https://2025.appliedmldays.org/) Session on Quantifying uncertainties in multiphysics learning, EPFL, *Navigating atomistic ML: guiding insights from physics* (11-14 February 2025)
 *   Machine Learning Potentials: from Interfaces to Solutions, Ruhr Universitat Bochum, *Euclidean neural networks guiding insights and exploration of atomistic systems*  (27-29 August 2024, on behalf of Tess Smidt)
