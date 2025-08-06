@@ -27,7 +27,7 @@ Talks available online
    
 
 **Invited**
-*   [IAFI Summer School](https://iaifi.org/phd-summer-school.html) Tutorial Physics-Motivated Optimization with Sean Benevedes (5 August 2025) 
+*   [IAFI Summer School](https://iaifi.org/phd-summer-school.html) [Tutorial](https://github.com/curiosity54/iaifi-summer-school-25) Physics-Motivated Optimization with Sean Benevedes (5 August 2025) 
 *   Artifical Intelligence and Machine Learning for Materials, Los Alamos National Laboratory and Purdue University, *Redesigning the atomistic toolbox with ML* (23-25 July 2025)
 *   Symposium on Materials Simulations and Experiments using Machine Learning & Exascale Computing, Spetses, Greece (22-27 June 2025) - Declined travel restrictions 
 *   AAAI [Bridge on knowledge-guided ML](https://sites.google.com/vt.edu/kgml-bridge-aaai-25/) *Unpacking the synergy of physics and data: machine learning for atomistic systems* (25-26 February 2025) 
