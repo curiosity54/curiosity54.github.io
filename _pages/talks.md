@@ -27,6 +27,9 @@ Talks available online
    
 
 **Invited**
+*   [MRS Fall 2025, Symposium on Accelerated Materials Discovery Through Data-Driven AI and Automation](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/symposium-sessions/call-for-papers/2025-mrs-fall-meeting/Symposium-MT03-Accelerated-Materials-Discovery-Through-Data-Driven-AI-and-Automation--) (30 Nov - 5 December 2025)
+*   Max Planck Institute for Polymer Research Seminar, virtual, (7 October 2025)
+*   [APS Conference for Graduate Women and Gender Minorities in Physics](https://www.aps.org/initiatives/inclusion/gender-inclusive/graduate-women-gender-minorities) Washington DC, (25-25 September 2025)
 *   [IAFI Summer School](https://iaifi.org/phd-summer-school.html) [Tutorial](https://github.com/curiosity54/iaifi-summer-school-25) Physics-Motivated Optimization with Sean Benevedes (5 August 2025) 
 *   Artifical Intelligence and Machine Learning for Materials, Los Alamos National Laboratory and Purdue University, *Redesigning the atomistic toolbox with ML* (23-25 July 2025)
 *   Symposium on Materials Simulations and Experiments using Machine Learning & Exascale Computing, Spetses, Greece (22-27 June 2025) - Declined travel restrictions 
