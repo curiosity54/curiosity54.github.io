@@ -28,6 +28,8 @@ Talks available online
 
 **Invited**
 *   [MRS Fall 2025, Symposium on Accelerated Materials Discovery Through Data-Driven AI and Automation](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/symposium-sessions/call-for-papers/2025-mrs-fall-meeting/Symposium-MT03-Accelerated-Materials-Discovery-Through-Data-Driven-AI-and-Automation--) (30 Nov - 5 December 2025)
+*   Microsoft Quantum Seminar (13 November 2025)
+*   Computational Materials Physics Seminar, University of Vienna (11 November 2025)
 *   Max Planck Institute for Polymer Research Seminar, virtual, (7 October 2025)
 *   [APS Conference for Graduate Women and Gender Minorities in Physics](https://www.aps.org/initiatives/inclusion/gender-inclusive/graduate-women-gender-minorities) Washington DC, (25-26 September 2025)
 *   [IAFI Summer School](https://iaifi.org/phd-summer-school.html) [Tutorial](https://github.com/curiosity54/iaifi-summer-school-25) Physics-Motivated Optimization with Sean Benevedes (5 August 2025) 
@@ -45,7 +47,7 @@ Talks available online
 *	MARVEL Junior Seminar 2021, *Efficient representations of local and non-local interactions in atomistic machine learning* (5 February 2021)
 
 **Contributed**
-*   [ML4PS workshop](https://ml4physicalsciences.github.io/2025/) at NeurIPS, (6/7 December 2025)
+*   [ML4PS workshop](https://ml4physicalsciences.github.io/2025/) at NeurIPS, (6 December 2025)
 *   APS March Meeting, *Differentiable and transferable quantum chemistry through machine-Learned electronic Hamiltonians* (20 March 2025)
 *	APS March Meeting, *Completeness of atomic representations*, Poster presentation (07 March 2024)
 *	CECAM Berlin, *Multicenter representations for atomistic ML* Poster Presentation (19-23 June 2023)
