@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 Slides
-* [Talk Nov 2025](https://github.com/curiosity54/curiosity54.github.io/assets/presentations/Nov2025.pptx)
+* [Talk Nov 2025](https://github.com/curiosity54/curiosity54.github.io/tree/master/assets/presentations/Nov2025.pptx)
 
 Talks available online 
 * [Crunch Seminar, December 2024](https://www.youtube.com/watch?v=2YxhffrhbNY&ab_channel=CRUNCHGroup%3AHomeofMath%2BMachineLearning%2BX)
