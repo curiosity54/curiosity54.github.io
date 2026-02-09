@@ -30,6 +30,7 @@ Talks available online
 
 **Invited**
 *   Interdisciplinary Challenges [(IntCha 2026)](https://intcha26.sciencesconf.org/) (20-24 April 2026)
+*   [Sanibel Symposium](https://sanibelsymposium.qtp.ufl.edu/) (25 February 2026)
 *   [Total Energy Mini@Berkeley](https://sites.google.com/berkeley.edu/totalenergyberkeley/home?authuser=0) (12-13 January 2026)
 *   [MRS Fall 2025, Symposium on Accelerated Materials Discovery Through Data-Driven AI and Automation](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/symposium-sessions/call-for-papers/2025-mrs-fall-meeting/Symposium-MT03-Accelerated-Materials-Discovery-Through-Data-Driven-AI-and-Automation--), featured in the Industry Track, (30 Nov - 5 December 2025)
 *   Microsoft Quantum Seminar (13 November 2025)
@@ -51,6 +52,7 @@ Talks available online
 *	MARVEL Junior Seminar 2021, *Efficient representations of local and non-local interactions in atomistic machine learning* (5 February 2021)
 
 **Contributed**
+*   APS Global Summit (15-20 March 2026)
 *   GRC, AI for Materials, Energy, and Chemical Sciences (1-6 February 2026) 
 *   APS March Meeting, *Differentiable and transferable quantum chemistry through machine-Learned electronic Hamiltonians* (20 March 2025)
 *	APS March Meeting, *Completeness of atomic representations*, Poster presentation (07 March 2024)
