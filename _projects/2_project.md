@@ -14,5 +14,5 @@ If you're keen to try out some of the machinery we have developed for this purpo
 <!-- _pages/publications.md -->
 <div class="publications">
   <h2> Related publications</h2>
-  {% bibliography -f papers -q @*[ham=true]* --template paper_link.html %}
+  {% bibliography -f papers -q @*[ham=true]* --template paper_link.liquid %}
 </div>

@@ -12,5 +12,5 @@ Another line of research has been on identifying the similarities and difference
 
 <!-- _pages/publications.md -->
 <div class="publications">
-    {% bibliography -f papers -q @*[reps=true]* --template paper_link.html %}
+    {% bibliography -f papers -q @*[reps=true]* --template paper_link.liquid %}
 </div>
