@@ -29,6 +29,7 @@ Talks available online
    
 
 **Invited**
+*   [NCCR MARVEL Party-ing away](https://nccr-marvel.ch/events/2026-07-marvel-epfl) (9 - 10 July 2026)
 *   Interdisciplinary Challenges [(IntCha 2026)](https://intcha26.sciencesconf.org/) (20-24 April 2026)
 *   [Sanibel Symposium](https://sanibelsymposium.qtp.ufl.edu/) (25 February 2026)
 *   [Total Energy Mini@Berkeley](https://sites.google.com/berkeley.edu/totalenergyberkeley/home?authuser=0) (12-13 January 2026)
@@ -52,7 +53,7 @@ Talks available online
 *	MARVEL Junior Seminar 2021, *Efficient representations of local and non-local interactions in atomistic machine learning* (5 February 2021)
 
 **Contributed**
-*   APS Global Summit (15-20 March 2026)
+*   APS Global Summit (15-20 March 2026) + Session Chair 
 *   GRC, AI for Materials, Energy, and Chemical Sciences (1-6 February 2026) 
 *   APS March Meeting, *Differentiable and transferable quantum chemistry through machine-Learned electronic Hamiltonians* (20 March 2025)
 *	APS March Meeting, *Completeness of atomic representations*, Poster presentation (07 March 2024)
