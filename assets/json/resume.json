@@ -19,13 +19,6 @@
     ]
   },
   "work": [
-    {"name": "Harvard University", 
-     "position": "Visiting Postdoc Fellow",
-     "url": "https://joonholeegroup.com/",
-     "startDate": "2025-03",
-     "endDate": "2026-03",
-     "summary": "Collaborating with the group of Prof. Joonho Lee, Department of Chemistry and Chemical Biology"
-    },
     {
       "name": "Massachusetts Institute of Technology",
       "position": "Postdoctoral Associate",
@@ -33,6 +26,14 @@
       "startDate": "2024-09",
       "summary": "School of Engineering Fellow. Hosted by the group of Prof. Tess Smidt and Research Lab of Electronics at MIT. Since April 2025, I am also a Junior Investigator at the NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI), and more recently also with the NSF Artificial Intelligence Materials Institute (AIMI)."
     },
+    {"name": "Harvard University",
+     "position": "Visiting Postdoc Fellow",
+     "url": "https://joonholeegroup.com/",
+     "startDate": "2025-03",
+     "endDate": "2026-03",
+     "summary": "Collaborating with the group of Prof. Joonho Lee, Department of Chemistry and Chemical Biology"
+    },
+
     {
       "name": "EPFL",
       "position": "Doctoral student",
