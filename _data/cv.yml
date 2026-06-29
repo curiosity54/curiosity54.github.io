@@ -3,10 +3,6 @@
   contents:
     - name: Full Name
       value: Jigyasa Nigam 
-        #- name: Date of Birth
-        #value: 24th August 1997
-        #- name: Languages
-        #value: English, Hindi, French
 
 - title: Education
   type: time_table
@@ -26,19 +22,24 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Visiting Postdoc Fellow
-      institution: Harvard University 
-      year: 02/2025- 03/2026
-      description:
-        - Hosted by the group of Prof. Joonho Lee, Department of Chemistry and Chemical Biology 
+    - title: Associate Research Scientist
+      institution: Initiative for Computational Catalysis, Flatiron Institute
+      year: 06/2026- Present
 
     - title: Postdoctoral Associate
       institution: Massachusetts Institute of Technology
-      year: 09/2024- Present
+      year: 09/2024- 06/2026
       description:
         - Awarded MIT School of Engineering's Postdoc Fellowship for Excellence in Engineering
         - Research Lab of Electronics at MIT. Collaborating with the group of Prof. Tess Smidt 
         - Since April 2025, I am also a Junior Investigator at the NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)  
+    
+    - title: Visiting Postdoc Fellow
+      institution: Harvard University 
+      year: 02/2025- 03/2026
+      description:
+        - Hosted by the group of Prof. Joonho Lee, Department of Chemistry and Chemical Biology  
+
     - title: AI4Science Intern
       institution: Microsoft Research, Berlin 
       year: 07/2023-10/2023
@@ -70,6 +71,7 @@
 - title: Honors and Awards
   type: nested_list
   contents:
+    - Loewdin Postdoctoral Award (2026)
     - MIT Postdoctoral Fellowship for Excellence in Engineering (2024)
     - Travel Fellowship from CECAM-Berlin (2023)
     - NCCR MARVEL Inspire Potentials Fellowship (2020)
