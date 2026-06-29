@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Jigyasa Nigam",
-    "label": "Postdoc",
+    "label": "Associate Research Scientist",
     "image": "",
-    "email": "jnigam@mit.edu",
-    "summary": "I am working at the intersection of physics, machine learning and materials science, hoping to drive their mutual development!",
+    "email": "jnigam@flatironinstitute.org",
+    "summary": "Working at the facinating intersection of physics, machine learning, chemistry and materials science!",
     "location": {
-      "city": "Cambridge",
+      "city": "New York",
       "countryCode": "US",
-      "region": "Massachusetts"
+      "region": "New York"
     },
     "profiles": [
       {
@@ -19,13 +19,24 @@
     ]
   },
   "work": [
+     {
+       "name": "Flatiron Institute",
+       "position": "Associate Research Scientist",
+       "url": "https://www.simonsfoundation.org/flatiron/initiative-for-computational-catalysis/",
+       "startDate": "2026-06",
+       "summary": "Very excited to be part of the Initiative for Computational Catalysis at Flatiron!"
+     },
+
+      
     {
       "name": "Massachusetts Institute of Technology",
       "position": "Postdoctoral Associate",
       "url": "https://www.mit.edu/",
       "startDate": "2024-09",
+      "endDate": "2026-06",
       "summary": "School of Engineering Fellow. Hosted by the group of Prof. Tess Smidt and Research Lab of Electronics at MIT. Since April 2025, I am also a Junior Investigator at the NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI), and more recently also with the NSF Artificial Intelligence Materials Institute (AIMI)."
     },
+
     {"name": "Harvard University",
      "position": "Visiting Postdoc Fellow",
      "url": "https://joonholeegroup.com/",
