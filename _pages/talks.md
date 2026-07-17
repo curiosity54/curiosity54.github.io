@@ -29,8 +29,9 @@ Talks available online
    
 
 **Invited**
-*   [NCCR MARVEL Party-ing away](https://nccr-marvel.ch/events/2026-07-marvel-epfl) (9 - 10 July 2026)
-*   Interdisciplinary Challenges [(IntCha 2026)](https://intcha26.sciencesconf.org/) (20-24 April 2026)
+*   Frontiers of AI Research in Space, Earth System & Engineering Sciences (FAR-SEE), Physical Research Laboratory (20-21 July 2026, virtual participation)
+*   [NCCR MARVEL Party-ing away](https://nccr-marvel.ch/events/2026-07-marvel-epfl) (9 - 10 July 2026, virtual participation)
+*   Interdisciplinary Challenges [(IntCha 2026)](https://intcha26.sciencesconf.org/) (20-24 April 2026, virtual participation)
 *   [Sanibel Symposium](https://sanibelsymposium.qtp.ufl.edu/) (25 February 2026)
 *   [Total Energy Mini@Berkeley](https://sites.google.com/berkeley.edu/totalenergyberkeley/home?authuser=0) (12-13 January 2026)
 *   [MRS Fall 2025, Symposium on Accelerated Materials Discovery Through Data-Driven AI and Automation](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/symposium-sessions/call-for-papers/2025-mrs-fall-meeting/Symposium-MT03-Accelerated-Materials-Discovery-Through-Data-Driven-AI-and-Automation--), featured in the Industry Track, (30 Nov - 5 December 2025)
