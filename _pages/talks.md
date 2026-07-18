@@ -29,7 +29,7 @@ Talks available online
    
 
 **Invited**
-*   Frontiers of AI Research in Space, Earth System & Engineering Sciences (FAR-SEE), Physical Research Laboratory (20-21 July 2026, virtual participation)
+*   [Frontiers of AI Research in Space, Earth System & Engineering Sciences (FAR-SEE)](https://far-see2026.ipsa-asso.in), Physical Research Laboratory (20-21 July 2026, virtual participation)
 *   [NCCR MARVEL Party-ing away](https://nccr-marvel.ch/events/2026-07-marvel-epfl) (9 - 10 July 2026, virtual participation)
 *   Interdisciplinary Challenges [(IntCha 2026)](https://intcha26.sciencesconf.org/) (20-24 April 2026, virtual participation)
 *   [Sanibel Symposium](https://sanibelsymposium.qtp.ufl.edu/) (25 February 2026)
