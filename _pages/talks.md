@@ -17,6 +17,8 @@ Talks available online
 
 
 **Organized**
+* [SIMBIOCHEM](https://www.simbiochem.com/) (11/12 December 2026, NeurIPS workshop)
+    - co-organized with Bruno Trentini, Emine Kucukbenli, Max Secor, Ole Winther, Runzhong Wang)
 * [Beyond the Black Box: ML-Driven Discovery Across Scientific Disciplines](https://sites.google.com/mit.edu/ml-driven-discovery/home) (20-21 September 2025)
     - co-organized with Sendhil Mullainathan, Ashesh Rambachan, Tess Smidt, Peter Chang, Steven Ma, Mit Kotak. Thanks to the generous support from the Chan Wui and Yunyin Fund.
 * [Boston Symmetry Day](https://bostonsymmetry.github.io/), (31 March 2025)
@@ -29,6 +31,7 @@ Talks available online
    
 
 **Invited**
+*   [AAAI Symposium on Parsimonious Scientific Machine Learning](https://sites.google.com/view/parsciml-fss26) (5-7 November 2026)
 *   [Frontiers of AI Research in Space, Earth System & Engineering Sciences (FAR-SEE)](https://far-see2026.ipsa-asso.in), Physical Research Laboratory (20-21 July 2026, virtual participation)
 *   [NCCR MARVEL Party-ing away](https://nccr-marvel.ch/events/2026-07-marvel-epfl) (9 - 10 July 2026, virtual participation)
 *   Interdisciplinary Challenges [(IntCha 2026)](https://intcha26.sciencesconf.org/) (20-24 April 2026, virtual participation)
