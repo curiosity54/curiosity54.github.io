@@ -18,7 +18,7 @@ Talks available online
 
 **Organized**
 * [SIMBIOCHEM](https://www.simbiochem.com/) (11/12 December 2026, NeurIPS workshop)
-    - co-organized with Bruno Trentini, Emine Kucukbenli, Max Secor, Ole Winther, Runzhong Wang)
+    - co-organized with Bruno Trentini, Emine Kucukbenli, Max Secor, Ole Winther, Runzhong Wang
 * [Beyond the Black Box: ML-Driven Discovery Across Scientific Disciplines](https://sites.google.com/mit.edu/ml-driven-discovery/home) (20-21 September 2025)
     - co-organized with Sendhil Mullainathan, Ashesh Rambachan, Tess Smidt, Peter Chang, Steven Ma, Mit Kotak. Thanks to the generous support from the Chan Wui and Yunyin Fund.
 * [Boston Symmetry Day](https://bostonsymmetry.github.io/), (31 March 2025)
