@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Associate Research Scientist, Flatiron Institute</a> 
+subtitle: <a href='https://www.simonsfoundation.org/people/jigyasa-nigam/'>Associate Research Scientist, Flatiron Institute</a> 
 
 profile:
   align: right
