@@ -31,6 +31,7 @@ Talks available online
    
 
 **Invited**
+*   SIAM Chapter, Rensselaer Polytechnic Institute, 13 January 2027
 *   [Representations for the Physical Sciences, NeurIPS Workshop](https://representations-physical-sciences.github.io/workshop-2026/#speakers) (12/13 December 2026)
 *   [AAAI Symposium on Parsimonious Scientific Machine Learning](https://sites.google.com/view/parsciml-fss26) (5-7 November 2026)
 *   [Frontiers of AI Research in Space, Earth System & Engineering Sciences (FAR-SEE)](https://far-see2026.ipsa-asso.in), Physical Research Laboratory (20-21 July 2026, virtual participation)
